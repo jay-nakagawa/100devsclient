@@ -22,7 +22,7 @@ function App() {
  } )
   return (
     <div className="App">
-    <h1>cats</h1>
+    <h1>catsssss</h1>
     {cats.map(cat => (
     <div key={cat._id}>
        The cat is named {cat.name}
